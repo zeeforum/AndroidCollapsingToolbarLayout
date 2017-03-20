@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="second_activity_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada enim augue, non mattis odio vulputate quis. Nullam ornare molestie feugiat. Vestibulum efficitur sed turpis et semper. Integer sed rhoncus diam. In id lectus venenatis, euismod massa vel, accumsan lorem. Integer mollis sem ac eros lobortis volutpat. Nunc aliquet nulla congue, imperdiet velit ultrices, euismod massa. Duis eleifend ut justo sit amet ornare. Vestibulum interdum vehicula ante, eget dapibus quam tempor id. Aenean a luctus nisl, eget sagittis sem. Integer efficitur fringilla egestas.
+
+Mauris vitae mattis libero, vel aliquam ipsum. Aliquam mollis libero non sapien fringilla, at commodo orci rhoncus. Donec efficitur dolor elit, non tempus tortor pellentesque in. Nulla pulvinar venenatis leo eget faucibus. Donec pellentesque tellus aliquam, vehicula odio vitae, placerat massa. Aliquam ac dapibus lorem. Vivamus ante mauris, dictum sit amet elementum blandit, scelerisque et arcu. Duis rutrum purus ac lobortis mollis. Nullam vitae tortor facilisis, viverra magna non, rutrum erat. Integer arcu lectus, tincidunt vitae luctus vitae, venenatis posuere lectus. Duis in leo sed est fermentum auctor. Aliquam eu fringilla tellus, eget imperdiet lacus. Aenean id elit quis elit posuere sollicitudin facilisis volutpat ante. Praesent scelerisque auctor arcu, eu porta neque pulvinar vitae.</string>
+
+    <string name="collapsing_toolbar">Test App</string>
+</resources>
